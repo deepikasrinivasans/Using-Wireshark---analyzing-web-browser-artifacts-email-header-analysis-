@@ -1,4 +1,6 @@
-# Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+# LAB 10 Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+### Reg no:212222230028
+### Name: Deepika S
 ## AIM:
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 
